@@ -17,7 +17,7 @@ kontrol = bool()
 
 bot = commands.Bot(command_prefix= '$')
 
-#id = bot.get_guild(669662960561553428)
+
 
 
 @bot.event
