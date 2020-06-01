@@ -10,6 +10,8 @@ Tr:
 
 Discord'ta müzayede oluşturmanızı sağlayan botun kaynak kodları.
 
+Heroku serverda çalışması için gerekli dökümanlar içindedir.
+
 Öncelikle oluşturulan müzayedeler her hangi bir veritabanında tutulmamaktadır. Her bir müzayede discord mesajı oldugundan bu mesajların ID si kullanılarak işlem yapılmıştır.
 
 Kullanılan kütüphaneler:
