@@ -9,7 +9,8 @@ from discord.embeds import EmbedProxy
 import validators
 
 
-TOKEN = 'NzAyMjAzOTM1NTA2NTYzMDgy.Xp9Thg.93EI8JDOgnZVKCZsaP8Turc78ZQ'
+TOKEN = '
+'
 #client = discord.Client()
 messages = 0
 kontrol = bool()
