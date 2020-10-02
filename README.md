@@ -1,4 +1,4 @@
-# Discord-Auction-Bot
+# Discord-Auction-Bot [OLD VERSION]
 
 Discord bot for creating auctions.
 
