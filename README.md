@@ -3,7 +3,7 @@
 Discord bot for creating auctions.
 
 You can add your server from this link.
-https://top.gg/bot/702203935506563082
+https://top.gg/bot/702203935506563082 (Not this version , it is new and better)
 
 ______________________________________________________
 Tr:
